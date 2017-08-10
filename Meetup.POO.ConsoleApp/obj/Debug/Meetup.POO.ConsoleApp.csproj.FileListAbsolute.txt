@@ -1,0 +1,19 @@
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.exe.config
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.exe
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.pdb
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.Dominio.dll
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.Dominio.pdb
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.exe
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.pdb
+F:\Meetup\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.exe.config
+F:\Meetup\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.exe
+F:\Meetup\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.exe.config
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.exe
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.exe
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.ConsoleApp.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.Dominio.dll
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\bin\Debug\Meetup.POO.Dominio.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.ConsoleApp\obj\Debug\Meetup.POO.ConsoleApp.csprojResolveAssemblyReference.cache

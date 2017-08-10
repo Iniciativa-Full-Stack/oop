@@ -1,0 +1,9 @@
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\bin\Debug\Meetup.POO.Dominio.dll
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\bin\Debug\Meetup.POO.Dominio.pdb
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\obj\Debug\Meetup.POO.Dominio.dll
+c:\users\marcos\documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\obj\Debug\Meetup.POO.Dominio.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\obj\Debug\Meetup.POO.Dominio.dll
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\obj\Debug\Meetup.POO.Dominio.pdb
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\bin\Debug\Meetup.POO.Dominio.dll
+C:\Users\mrcosta\Documents\Visual Studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\bin\Debug\Meetup.POO.Dominio.pdb
+C:\Users\mrcosta\Documents\visual studio 2013\Projects\Meetup.POO\Meetup.POO.Dominio\obj\Debug\Meetup.POO.Dominio.csprojResolveAssemblyReference.cache
